@@ -1,0 +1,4 @@
+name: "Kotlin"
+version: "${pluginVersion}"
+main: "fr.mrsquaare.kotlin.KotlinPlugin"
+api-version: "${apiVersion}"
